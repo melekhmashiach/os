@@ -6,8 +6,9 @@ rpm : [fedoraproject](https://www.fedoraproject.org)
 deb : [debian](https://www.debian.org)
 
 
-[Linux](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+[linux](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
+[windows](https://www.microsoft.com/en-gb/software-download/)
 
 cyber sequrity
 
