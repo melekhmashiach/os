@@ -1,4 +1,4 @@
-# os
+# os  ✅
 operatting system
 
 rpm : [fedoraproject](https://www.fedoraproject.org)
